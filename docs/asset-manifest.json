@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Merkury/static/css/main.92add6cb.chunk.css",
-    "main.js": "/Merkury/static/js/main.4ccbe7b7.chunk.js",
-    "main.js.map": "/Merkury/static/js/main.4ccbe7b7.chunk.js.map",
+    "main.js": "/Merkury/static/js/main.388aec45.chunk.js",
+    "main.js.map": "/Merkury/static/js/main.388aec45.chunk.js.map",
     "runtime-main.js": "/Merkury/static/js/runtime-main.a40ca25c.js",
     "runtime-main.js.map": "/Merkury/static/js/runtime-main.a40ca25c.js.map",
     "static/css/2.0ee74ed5.chunk.css": "/Merkury/static/css/2.0ee74ed5.chunk.css",
     "static/js/2.a76a958b.chunk.js": "/Merkury/static/js/2.a76a958b.chunk.js",
     "static/js/2.a76a958b.chunk.js.map": "/Merkury/static/js/2.a76a958b.chunk.js.map",
     "index.html": "/Merkury/index.html",
-    "precache-manifest.68a0f973eb9fab3312421eb8d35e8fbd.js": "/Merkury/precache-manifest.68a0f973eb9fab3312421eb8d35e8fbd.js",
+    "precache-manifest.29859388649a80440fe7a4ad176f695a.js": "/Merkury/precache-manifest.29859388649a80440fe7a4ad176f695a.js",
     "service-worker.js": "/Merkury/service-worker.js",
     "static/css/2.0ee74ed5.chunk.css.map": "/Merkury/static/css/2.0ee74ed5.chunk.css.map",
     "static/css/main.92add6cb.chunk.css.map": "/Merkury/static/css/main.92add6cb.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.0ee74ed5.chunk.css",
     "static/js/2.a76a958b.chunk.js",
     "static/css/main.92add6cb.chunk.css",
-    "static/js/main.4ccbe7b7.chunk.js"
+    "static/js/main.388aec45.chunk.js"
   ]
 }

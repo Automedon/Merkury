@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10c3a7395616bbc18ead3f58b519feb3",
+    "revision": "ec00bcca1599f48fa5765317c7a30f7f",
     "url": "/Merkury/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Merkury/static/css/2.0ee74ed5.chunk.css"
   },
   {
-    "revision": "55b1f338235721d5de22",
+    "revision": "286ac36c3e21f918375f",
     "url": "/Merkury/static/css/main.92add6cb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Merkury/static/js/2.a76a958b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "55b1f338235721d5de22",
-    "url": "/Merkury/static/js/main.4ccbe7b7.chunk.js"
+    "revision": "286ac36c3e21f918375f",
+    "url": "/Merkury/static/js/main.388aec45.chunk.js"
   },
   {
     "revision": "b9c15e7b972ae939613d",
