@@ -91,7 +91,7 @@ const Wrapper = styled.div`
     }
     p {
       margin: 3% auto;
-      width: 60%;
+      width: 100%;
       text-align: center;
     }
     div.btn {
